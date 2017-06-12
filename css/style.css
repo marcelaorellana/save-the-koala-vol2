@@ -162,6 +162,13 @@ footer ul{
 .carousel-mio{
 	background-color: #fff;
 }
+#modals, #modalss{
+	border: none;
+}
+.btn-info:focus{
+	background-color: #41521F; /*verde más oscuro*/
+	border: none;
+}
 
 
 
