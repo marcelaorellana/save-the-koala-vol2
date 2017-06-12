@@ -1,0 +1,158 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+body{
+	background-color: pink;
+	
+}
+/********************NAV BAR********************/
+.navbar{
+	background-color: transparent;
+	border-bottom: none;
+	margin-bottom: 0;
+	background-image: url(../img/portada.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+.navbar-default .navbar-brand {
+	color: white;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #fff;
+}
+.page-header{
+	border: none;
+	margin-top: 20vh;
+}
+
+#welcomeId h1, #welcomeId p{
+	color: #fff;
+}
+#welcomeId button{
+	background-color: #41521F; /*verde más oscuro*/
+	padding: 10px;
+	border: none;
+	color: #fff;
+	font-size: 16px;
+	border-radius: 5px;
+}
+/************************SECTION TWO****************/
+.section-two{
+	background-color: #fff;
+	width: 100%;
+	margin:auto;
+	padding-top: 10vh;
+}
+.section-two h1, .section-two h2{
+	color: #A89F68; /*cafe claro*/
+	font-weight: 900;
+}
+/**************************SECTION THREE***********/
+.section-three{
+	background-color: #A89F68; /*verde oscuro*/
+
+}
+.section-three .row{
+	padding: 5vh;
+}
+.section-three img{
+	box-sizing: border-box;
+	border: 9px solid #fff;
+}
+.section-three h5, .section-three p{
+	color: #fff;
+}
+.section-three h2{
+	color: #41521F;
+}
+/*************************SECTION FOUR*******************/
+.section-four{
+	background-image: url(../img/all.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh; 
+}
+.section-four h2, .section-four h5, .section-four p{
+	color: #fff;
+}
+.help{
+	margin-top: 3vh;
+}
+/***************************section five*********************/
+.section-five{
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 5vh;
+}
+.section-five i{
+	font-size: 50px;
+	color: #A89F68;
+}
+.section-five p, .section-five h2{
+	color: #A89F68;
+}
+/****************************section seix***********************/
+.section-six{
+	text-align: center;
+	background-color: #A89F68; /*cafe claro*/
+	padding: 5vh;
+}
+.section-six h2{
+	color: #41521F; /*verde más oscuro*/
+}
+.section-six p{
+	font-size: 16px;
+}
+p.price{
+	font-size: 60px;
+	padding-left: 3px;
+}  
+p.titulo{
+	padding-top: 5vh;
+}
+.price{
+	display: inline-block;
+	color: #fff;
+}
+sup.price {
+	    top: -2.5em;
+	    font-size: 14px;
+	    padding: 3px;
+}
+sub.price{
+	font-size: 14px;
+}
+.line{
+	border-bottom: 1px solid #fff;
+	width: 90%;
+}
+.section-six button{
+	background-color: #41521F; /*verde más oscuro*/
+	color: #fff;
+	border: none;
+	padding: 10px;
+	border-radius: 5px;
+}
+/**************************FOOTER**********************/
+footer{
+	background-color: #41521F; /*verde más oscuro*/
+	padding-top: 5vh;
+}
+footer p{
+	color: #fff;
+}
+footer a, footer h5{
+	color: #A89F68;
+}
+footer ul{
+	list-style: none;
+}
+
+
+
+
+
