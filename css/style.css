@@ -162,14 +162,27 @@ footer ul{
 .carousel-mio{
 	background-color: #fff;
 }
-#modals, #modalss{
+#modals, #modalss, #donarID{
 	border: none;
+	font-weight: 400;
+}
+#donarID{
+	font-size: 18px;
 }
 .btn-info:focus{
 	background-color: #41521F; /*verde más oscuro*/
 	border: none;
+	font-size: 14px;
+}
+.btn-info:hover{
+	border: none;
 }
 
-
+#solicitud{
+	background-color: #41521F; /*verde más oscuro*/
+	padding: 15px;
+	margin: 5px;
+	color: #fff;
+}
 
 
