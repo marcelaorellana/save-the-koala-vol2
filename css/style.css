@@ -68,6 +68,13 @@ body{
 .section-three h2{
 	color: #41521F;
 }
+.btn-info{
+	background-color: #41521F;
+	border: none;
+}
+.btn-info:hover{
+	background-color: #829B51;
+}
 /*************************SECTION FOUR*******************/
 .section-four{
 	background-image: url(../img/all.jpg);
